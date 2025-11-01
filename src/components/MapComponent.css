@@ -1,0 +1,127 @@
+.leaflet-map {
+  width: 100%;
+  height: 100%;
+  min-height: 500px;
+  z-index: 1;
+}
+
+.leaflet-container {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+.custom-popup .leaflet-popup-content-wrapper {
+  border-radius: 12px;
+  padding: 0;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.custom-popup .leaflet-popup-content {
+  margin: 0;
+  min-width: 250px;
+}
+
+.popup-content {
+  padding: 1rem;
+}
+
+.popup-header {
+  margin-bottom: 0.75rem;
+}
+
+.category-badge {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: white;
+}
+
+.category-badge.pencari-kerja {
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+}
+
+.category-badge.perusahaan {
+  background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+}
+
+.popup-content h3 {
+  color: #1a202c;
+  font-size: 1.2rem;
+  margin-bottom: 0.75rem;
+  font-weight: 700;
+}
+
+.popup-details {
+  margin-bottom: 1rem;
+}
+
+.popup-details p {
+  color: #4a5568;
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.5;
+}
+
+.popup-details strong {
+  color: #2d3748;
+}
+
+.coordinates {
+  font-size: 0.8rem;
+  color: #718096;
+  font-family: monospace;
+}
+
+.delete-btn {
+  width: 100%;
+  padding: 0.6rem;
+  background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.delete-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(239, 68, 68, 0.4);
+}
+
+.delete-btn:active {
+  transform: translateY(0);
+}
+
+@media (max-width: 768px) {
+  .leaflet-map {
+    min-height: 400px;
+  }
+
+  .custom-popup .leaflet-popup-content {
+    min-width: 220px;
+  }
+
+  .popup-content h3 {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .leaflet-map {
+    min-height: 350px;
+  }
+
+  .custom-popup .leaflet-popup-content {
+    min-width: 200px;
+  }
+
+  .popup-content {
+    padding: 0.75rem;
+  }
+}
