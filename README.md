@@ -234,4 +234,31 @@ Jika ada pertanyaan atau masalah, silakan buat issue di repository ini.
 
 ---
 
+## 👨‍💻 Author
+
+**Lettu Kes dr. Muhammad Sobri Maulana, S.Kom, CEH, OSCP, OSCE**
+
+- 📧 Email: [muhammadsobrimaulana31@gmail.com](mailto:muhammadsobrimaulana31@gmail.com)
+- 🐙 GitHub: [github.com/sobri3195](https://github.com/sobri3195)
+- 🌐 Website: [muhammadsobrimaulana.netlify.app](https://muhammadsobrimaulana.netlify.app)
+
+### 🌐 Social Media
+
+- 🎥 YouTube: [@muhammadsobrimaulana6013](https://www.youtube.com/@muhammadsobrimaulana6013)
+- 📱 TikTok: [@dr.sobri](https://www.tiktok.com/@dr.sobri)
+- 💬 Telegram: [winlin_exploit](https://t.me/winlin_exploit)
+- 📱 WhatsApp Group: [Join Here](https://chat.whatsapp.com/B8nwRZOBMo64GjTwdXV8Bl)
+
+### ☕ Support & Donation
+
+Jika aplikasi ini bermanfaat, Anda dapat mendukung pengembangan lebih lanjut melalui:
+
+- 💳 [Lynk.id](https://lynk.id/muhsobrimaulana)
+- ☕ [Trakteer](https://trakteer.id/g9mkave5gauns962u07t)
+- 🛍️ [Gumroad](https://maulanasobri.gumroad.com/)
+- 🎨 [Karyakarsa](https://karyakarsa.com/muhammadsobrimaulana)
+- 💰 [Nyawer](https://nyawer.co/MuhammadSobriMaulana)
+
+---
+
 **Dibuat dengan ❤️ menggunakan React dan Leaflet.js**
